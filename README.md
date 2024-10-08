@@ -1,4 +1,4 @@
-# Sainsbury-s-Price-Reduction-List
+# Sainsbury Price Reduction Barcodes.
 Full list of all possible yellow sticker barcodes for sainsbury's.
 
 Why did I do this?
@@ -16,5 +16,5 @@ These barcodes allowed us to see the impact of each digit on the checksum and us
 
 Why did I upload the barcodes?
 
-Mainly because they have no use, without a correct way of checking checkdigits they are useless + most Uk retailers are moving over to digital ways of reductions.
+Mainly because they have no use, without a correct way of checking checkdigits they are useless + most Uk retailers are moving over to digital ways of reductions. Providing these barcodes may also help with future advancements ensuring the protection of the massive companies taking advantage of the working people everyday ;)
 
